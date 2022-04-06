@@ -1,4 +1,4 @@
-# run with :   curl https://github.com/nicholasob7/automate_linux_bash/blob/main/automate_linux_shell | bash
+# run with :   curl https://raw.githubusercontent.com/nicholasob7/automate_linux_bash/main/automate_linux_shell?token=GHSAT0AAAAAABTAWJF5AC2DDUK6M5DUBD6YYSNBSOQ | bash
 #!/bin/bash
 
 echo "hello Nic"
