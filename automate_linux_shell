@@ -1,5 +1,6 @@
 # https://github.com/nicholasob7/automate_linux_bash/blob/main/automate_linux_shell | bash
 #!/bin/bash
+
 echo "hello Nic"
 sudo yum install -y tmux fish python3 zsh file
 sudo pip3 install pylint pytest bpython
