@@ -1,4 +1,4 @@
-# run with :   curl 
+# run with :   curl https://raw.githubusercontent.com/nicholasob7/automate_linux_bash/main/bautomate.sh?token=GHSAT0AAAAAABTJW5KYFJYGN6FNIDLHZ5KGYSOBQJA
 
 echo "Greetings Romulan"
 sudo yum install -y tmux fish python3 zsh file
