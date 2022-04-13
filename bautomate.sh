@@ -1,4 +1,4 @@
-# run with :   curl https://raw.githubusercontent.com/nicholasob7/automate_linux_bash/main/bautomate.sh |bash
+# run with :   curl https://github.com/nicholasob7/automate_linux_bash/blob/main/bautomate.sh |bash
 
 
 sudo yum install -y tmux fish python3 zsh file
